@@ -80,22 +80,34 @@ content:
       - layout: left
         title: Coredot LAB
         link: coredot.io
-        sub_title: Junior Backend Developer
+        sub_title: Developer
         caption: 2023.06 ~ 2023.10
         description: | # this will include new lines to allow paragraphs
           
             - <mark>Node.js</mark>,<mark>Linux</mark>,
           
-
       - title: Basic Research
         link: kr.basic.finance
-        sub_title: Junior Backend Developer
+        sub_title:  Developer
         caption: 2021.06. ~ 2023.05
         description: | # this will include new lines to allow paragraphs
           
             -  <mark>Java</mark>,<mark>Spring Boot</mark>
+      - title: 인비즈
+        link: https://inviz.co.kr/
+        sub_title: Developer
+        caption: 2021.03. ~ 2021.06
+        description: |
+          
+            -  <mark>Java</mark>,<mark>Spring Boot</mark>  
+      - title: Tmax AI
+        link: https://www.tmax.co.kr/tmaxai
+        sub_title: Intern
+        caption: 2020.11. ~ 2021.03
+        description: | # this will include new lines to allow paragraphs
+          
+            -  <mark>Java</mark>,<mark>Spring Boot</mark>  
             
-  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
