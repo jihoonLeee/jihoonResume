@@ -47,7 +47,8 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/resume_profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+
+content: | # this will include new lines to allow paragraphs
   안녕하세요. 3년차 개발자 이지훈입니다.
   
   <mark>Java</mark> <mark>Spring</mark>
